@@ -1,0 +1,81 @@
+/*
+============== background Color====================
+*/
+.dark-bg, .hover-bg:hover, .ui-timeline .tl-item .tl-body .tl-entry .btn-primary, .btn-text, .faq .collape-plus,
+.container-filter li a.active, .container-filter li a:hover, .container-filter li a, .link-zoom a, .link-zoom a.project_links,
+.project-info, #related-project .owl-prev:hover, #related-project .owl-next:hover, .sidebar-widget .widget-tag li a:hover,
+.content-carousel .owl-controls .owl-nav .owl-prev, .content-carousel .owl-controls .owl-nav .owl-next,
+.image-slider .owl-controls .owl-nav .owl-prev, .image-slider .owl-controls .owl-nav .owl-next,
+.fullwidth-slider .owl-controls .owl-nav .owl-prev, .fullwidth-slider .owl-controls .owl-nav .owl-next,
+.nf-carousel-theme .owl-controls .owl-nav .owl-prev, .nf-carousel-theme .owl-controls .owl-nav .owl-next, .blog-date,
+.pagination-nav ul li.active a, .pagination-nav ul li:hover a, .page-signin .body-inner:before, .b-line,
+.tparrows.tp-leftarrow:hover, .tparrows.tp-rightarrow:hover, .us .item h6:after, .bg_prap, .position_none .btn_style,
+.content-carousel .owl-controls .owl-nav .owl-prev, .content-carousel .owl-controls .owl-nav .owl-next,
+.image-slider .owl-controls .owl-nav .owl-prev, .image-slider .owl-controls .owl-nav .owl-next,
+.fullwidth-slider .owl-controls .owl-nav .owl-prev, .fullwidth-slider .owl-controls .owl-nav .owl-next,
+.nf-carousel-theme .owl-controls .owl-nav .owl-prev, .nf-carousel-theme .owl-controls .owl-nav .owl-next,
+.newsletter .newsletter-btn, .hover_box:hover, .faq .collape-plus, .panel-title a i,
+.left_service:after, .left_service:before, .tab-title ul li a.active, .tab-title ul li a:hover,
+.abt-block__slider .owl-dots .owl-dot, .bullet_round:after, .second_righ:after, .bg_color, .bg-color, .prapl_btn:hover,
+.item-nav .item-prev .prev-btn:hover, .item-nav .item-next .next-btn:hover,
+.ui-input-group .input-bar:before, .ui-input-group .input-bar:after, .inner-header-wraper:hover i {
+  background: #ffa500;
+}
+
+.bullet_round:before, .second_righ:before {
+  box-shadow: 0 0 6px 6px #ffa500;
+}
+
+.inner-header-wraper:hover i {
+  box-shadow: 0 0px 0px 46px #ffa500 inset;
+}
+
+.line-box i {
+  box-shadow: 0 0px 0px 1px #ffa500 inset;
+}
+
+.home2_banner:before, .team-item-img .team-item-detail {
+  background: #ffa500;
+  /* The Fallback */
+  background: rgba(34, 34, 34, 0.71);
+}
+
+/*
+============== Text Color====================
+*/
+a:focus, a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i,
+.sidebar-widget ul li a:hover, .lead-point li, .blog-post .fa-tag, .pagination-nav ul li a, .big-font i, .btn-text:hover,
+.color-primary, a.color-primary, .contact .icon-circle, .single-sidebar-widget .special-links li:hover a,
+.single-sidebar-widget .special-links li a.active, .custom-check:before,
+.us .item span, .single-fact .icon-boxed, .single-fact span, .single-fact p, .star i, .time_table .icon_lf i,
+.blog .post-content a.blog_tital:hover, .blog .post-content a.read_more:hover, a:focus, a:hover, .flot_icon, .flot_right,
+.anchor_ser:hover .service_text p, .hover_box span, .top-ser-icon .icon-fl i,
+.abt-box__content-link-arrow, .abt-box_link-arrow, .abt-box__content-link:hover, .abt-box_link:hover, .abt-block_link-arrow, .abt-block_link:hover,
+.mv-block__vision_link-arrow, .mv-block__mission_link-arrow, .mv-block__vision_link:hover, .mv-block__mission_link:hover,
+.solution_box i.color_orenge, .single-fact.new_counter span.counter, .line-box i, .team-item-img .team-item-detail .team-item-detail-inner .social li a,
+.white_but, .white_but:hover, .white_but:focus, .widget-tag li a, .item-nav .item-prev .prev-btn, .item-nav .item-next .next-btn,
+.team-item-img .team-item-detail .team-item-detail-inner .social li a:hover, .btn_style:hover, .form-field-wrapper i,
+.ui-input-group > input:focus ~ label, .ui-input-group > textarea:focus ~ label {
+  color: #ffa500;
+}
+
+/*
+============== Border Color====================
+*/
+.ui-timeline .tl-item .tl-body .tl-entry .btn-primary, .btn-text, #related-project .owl-prev:hover, #related-project .owl-next:hover,
+.widget-tag li a, .pagination-nav ul li a, .client-avtar, .contact .icon-circle,
+.contact-form input[type="text"]:focus, .contact-form textarea:focus, .single-sidebar-widget .special-links li a:before,
+.widget-search input[type="text"]:focus, .custom-check,
+.tparrows.tp-leftarrow:hover, .tparrows.tp-rightarrow:hover, .position_none .btn_style, .arrow_theme .owl-prev:hover, .arrow_theme .owl-next:hover,
+.v-line, .pic-box, .white_but, .box-resume, .prapl_btn, .item-nav .item-prev .prev-btn, .item-nav .item-next .next-btn,
+.appointment-section .input-sm {
+  border-color: #ffa500;
+}
+
+.timing li {
+  border-bottom-color: #281b39;
+}
+
+.ui-input-group > input:focus {
+  border-bottom-color: #ffa500;
+}
